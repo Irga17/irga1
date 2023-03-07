@@ -1,0 +1,47 @@
+h4{
+    color: red;
+}
+.hello{
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-size: 30px;
+}
+p {
+   color: blue; 
+}
+body{
+    background: linear-gradient(
+        to right,
+        rgb(173, 173, 170), rgb(173, 173, 170),rgb(167, 165, 165)
+    );
+    /*background-image: url(c:\Users\Lenovo\Downloads\black-1072366__340.jpg);
+    /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+}
+.nama{
+    color: rgb(42, 66, 66);
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.ass{
+    font-family: 'Times New Roman', Times, serif;
+}
+.tombolatas{
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.exs{
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.prfl{
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.smbt{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+.kmptn{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
